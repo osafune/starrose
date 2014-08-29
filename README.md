@@ -3,6 +3,8 @@ STARROSE
 
 STARROSEはSoPC Builer/Qsysに実装するポリゴンエンジンコンポーネントです。  
 
+[YouTube Video](http://youtu.be/J2ZQUf0gcXw?list=UUrPcgwDhvljCu9btHxtcVnQ)
+
 
 動作環境
 --------
